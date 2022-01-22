@@ -1,7 +1,7 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
-  "description": "",
+  "description": "- [Installation](#installation)\r - [Usage](#usage)\r - [Credits](#credits)\r - [License](#license)\r - [Contact](#contact)",
   "main": "server.js",
   "scripts": {
     "dev": "concurrently \"cd client && npm run dev\" \"cd server && npm run server\" ",
@@ -15,11 +15,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewjflanagan/Text-Editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matthewjflanagan/Text-Editor/issues"
+  },
+  "homepage": "https://github.com/matthewjflanagan/Text-Editor#readme"
 }

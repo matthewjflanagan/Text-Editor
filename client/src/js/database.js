@@ -25,6 +25,7 @@ export const putDb = async (content) => {
     const request = store.put({content: content });
     // Get confirmation of the request.
     const result = await request;
+    
     console.log('Data saved to database', result);
 }
 
