@@ -1,9 +1,9 @@
 # Text-Editor
 
 ## Description
+Text Editor is a Progressive Web App that runs in the browser with persistence measures that serve as redundancy. One case studied is when the app is not supported by the browser or online connectivity is lost. Text Editor uses idb package methods to get and store data to an IndexedDB database.
 
-
-## Table of Contents 
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -11,18 +11,20 @@
 - [Contact](#contact)
 
 ## Installation
-- Clone repository 
-- Open terminal
-- Enter 'node index' into the terminal
+Visit the URL below:
+https://lit-ravine-17181.herokuapp.com/
 
 ## Usage
+![Homepage](assets/Images/homepage.png)
 
+![Signup & Login](assets/Images/signup.png)
 
-![Screenshot of Webpage](assets/usage.png)
+![Profile](assets/Images/profile.png)
+
+![Update Post](assets/Images/edit.png)
 
 ## Credits
-- Collaborated with Olsen Ogouchi 
-- Tutor & Ask BSC Assistants were both critical to the development of this app
+My always helpful tutor assisting in multiple weeks on building this app as well as the numerous AskBCS Assistants always willing to help! 
 
 ## License
 MIT License
@@ -48,7 +50,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact
-Email: mattflanagan40@gmail.com
+Email me at mattflanagan40@gmail.com for any additional questions or comments about the application
 
 ## How to Contribute
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
