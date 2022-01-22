@@ -15,13 +15,11 @@ Visit the URL below:
 https://lit-ravine-17181.herokuapp.com/
 
 ## Usage
-![Homepage](assets/Images/homepage.png)
+![Manifest](Assets/manifest.PNG)
 
-![Signup & Login](assets/Images/signup.png)
+![Service_Worker](Assets/serviceWorker.PNG)
 
-![Profile](assets/Images/profile.png)
-
-![Update Post](assets/Images/edit.png)
+![idb](Assets/idb.PNG)
 
 ## Credits
 My always helpful tutor assisting in multiple weeks on building this app as well as the numerous AskBCS Assistants always willing to help! 
